@@ -1,2 +1,2 @@
-# Activities
-All the activities completed in SQL Fundamentals
+# SQL
+All the work covered in SQL Fundamentals
